@@ -1,0 +1,49 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+hms-node/node_modules
+hms-node/.pnp
+hms-node/.pnp.js
+
+# testing
+hms-node/coverage
+
+# production
+hms-node/build
+
+# misc
+hms-node/.DS_Store
+hms-node/.env.local
+hms-node/.env.development.local
+hms-node/.env.test.local
+hms-node/.env.production.local
+
+hms-node/npm-debug.log*
+hms-node/yarn-debug.log*
+hms-node/yarn-error.log*
+hms-node/debug.log
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+hms-react/node_modules
+hms-react/.pnp
+hms-react/.pnp.js
+
+# testing
+hms-react/coverage
+
+# production
+hms-react/build
+
+# misc
+hms-react/.DS_Store
+hms-react/.env.local
+hms-react/.env.development.local
+hms-react/.env.test.local
+hms-react/.env.production.local
+
+hms-react/npm-debug.log*
+hms-react/yarn-debug.log*
+hms-react/yarn-error.log*
+hms-react/debug.log
